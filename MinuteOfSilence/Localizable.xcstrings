@@ -1,0 +1,118 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Bad speaker audio parameters" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Погані параметри гучномовця"
+          }
+        }
+      }
+    },
+    "Cannot access speaker" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Недоступний гучномовець"
+          }
+        }
+      }
+    },
+    "Cannot process audio format" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Неприйнятний аудіо формат"
+          }
+        }
+      }
+    },
+    "current time" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "поточний час"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Помилка"
+          }
+        }
+      }
+    },
+    "Failed memory allocation" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Помилка виділення памʼяті"
+          }
+        }
+      }
+    },
+    "Let's increase audio volume" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Давайте збільшимо гучність звуку"
+          }
+        }
+      }
+    },
+    "Seconds to start:" : {
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Секунди до старту"
+          }
+        }
+      }
+    },
+    "The event did occur today at 9:00 Kyiv time" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The all-Ukrainian minute of silence has finished for today"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загальнонаціональна хвилина мовчання вже завершилася сьогодні"
+          }
+        }
+      }
+    },
+    "The event will begin today at 9:00 Kyiv time" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The all-Ukrainian minute of silence will begin today at 9:00 Kyiv time"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загальнонаціональна хвилина мовчання розпочнеться сьогодні о 9-й годині за Києвом"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
