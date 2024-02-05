@@ -8,6 +8,11 @@
 import UIKit
 import MediaPlayer
 
+// Note: I have used targetEnvironment(simulator) with the only purpose
+// to make the look of the simulator screen the same as on the real device.
+// Considering the fact, that MPVolumeView is not visible on simulator screen
+// but the UISlider looks exactly the same.
+
 class VolumeView: UIView {
 	private(set) var isLayoutChanged = true
 	var canBeShown = true
